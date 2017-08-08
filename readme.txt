@@ -1,2 +1,4 @@
 #Git-ing Start with Git
-####A fun project to learn git as part of the **DevMarketer**Cummunity
+####A fun project to learn git as part of the **DevMarketer**Cummunity.
+---
+Email me at [hello@devmarker.io](Maillto:hello@devmarker.io)
